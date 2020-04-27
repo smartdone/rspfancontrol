@@ -6,11 +6,11 @@ https://github.com/WiringPi/WiringPi
 
 ### 编译
 
-1. 克隆[WiringPi](https://github.com/WiringPi/WiringPi)然后编译
-2. 安装cmake等工具
+1. 安装cmake等工具
 ```
 sudo apt install gcc g++ cmake ninja-build
 ```
+2. 克隆[WiringPi](https://github.com/WiringPi/WiringPi)然后编
 3. 克隆本工程编译
 
 ```shell
