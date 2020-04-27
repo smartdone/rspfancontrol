@@ -14,7 +14,7 @@ sudo apt install gcc g++ cmake ninja-build
 3. 克隆本工程编译
 
 ```shell
-git clone 
+git clone --recursive https://github.com/smartdone/rspfancontrol.git
 mkdir build
 cd build
 cmake -GNinja ../
